@@ -2,8 +2,7 @@ const { Thought, User } = require('../models');
 
 module.exports = {
   getThought(req, res) {
-    Thought.find()
-      .sort({ createdAt: -1})
+    Thought.find().sort({ createdAt: -1})
       .then(thoughts => res.json(thoughts))
       .catch((err) => {
         console.log(err);
