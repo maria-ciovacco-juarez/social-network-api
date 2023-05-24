@@ -33,7 +33,11 @@ Run `node server.js` in the CLI to start the server and plug the routes into Ins
 
 
 
-Here's a video demo:
+Here's a video demo: https://youtu.be/eVzV7-rVSiM
+
+
+<img width="1485" alt="Screen Shot 2023-05-23 at 1 54 10 PM" src="https://github.com/maria-ciovacco-juarez/social-network-api/assets/119270869/abc7cfcb-0296-4c0d-a119-9f0961355e83">
+
 
 ## License
 
